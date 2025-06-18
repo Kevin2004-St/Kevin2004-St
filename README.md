@@ -17,9 +17,13 @@ Currently working on full-stack projects and always learning something new.
 - [Proyecto InventarioApp](https://github.com/FabianRoman/SistemaInventario)  JavaFX + MVC inventory system
   Currently contributing to a multi-user project on sales management.
 
+## Certifications 
+- [Spring Framework 6 and Spring boot 3](https://www.udemy.com/certificate/UC-0272786b-cfca-4f39-bc96-f3e643023bba/)
+- [Cisco python](https://www.credly.com/badges/6c6ea634-3c17-4ffb-b7c7-c3e1d0c5b26e/linked_in_profile)
+
 ## 📫 Contact Me
 - 📧 kevinfernandez.peinado@gmail.com
-- 💼 [LinkedIn](Mi linkedin)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kevin-stiven-a0a5401aa/)
 
 ---
 
