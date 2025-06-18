@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Kevin Fernández
 
-I'm a Systems Engineer who loves building apps with PHP and Laravel, Python, Java, and Spring Boot.  
-Currently working on full-stack projects and always learning something new.
+I'm a Systems Engineer who loves building apps with Laravel, PHP, Java, Spring Boot, and Python.  
+Currently working on full-stack projects, diving into data analysis, and always learning something new.
+
 
 ## 🔧 Tech Stack
 - ⚙️ Backend: Laravel, Spring Boot, Python
