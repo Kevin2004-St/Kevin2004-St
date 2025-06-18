@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Kevin Fernández
 
-<!--
-**Kevin2004-St/Kevin2004-St** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Systems Engineer who loves building apps with PHP and Laravel, Python, Java, and Spring Boot.  
+Currently working on full-stack projects and always learning something new.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- ⚙️ Backend: Laravel, Spring Boot, Python
+- 🎨 Frontend: Blade,JS, HTML/CSS
+- 💾 Databases: MySQL, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- [GESTION-PROJECT](https://github.com/Kevin2004-St/GESTION-EMPRESARIAL) – Laravel Project
+- [flask_autentication](https://github.com/Kevin2004-St/flask_autentication) - Flask Project
+
+
+## 👥 Collaborating on
+- [Proyecto InventarioApp](https://github.com/FabianRoman/SistemaInventario)  JavaFX + MVC inventory system
+  Currently contributing to a multi-user project on sales management.
+
+## 📫 Contact Me
+- 📧 kevinfernandez.peinado@gmail.com
+- 💼 [LinkedIn](Mi linkedin)
+
+---
+
+🛠️ Always building. Always improving.
