@@ -11,7 +11,7 @@ Currently working on full-stack projects, diving into data analysis, and always 
 
 ## 📂 Featured Projects
 - [GESTION-PROJECT](https://github.com/Kevin2004-St/GESTION-EMPRESARIAL) – Laravel Project
-- [flask_autentication](https://github.com/Kevin2004-St/flask_autentication) - Flask Project
+- [flask_autentication](https://github.com/Kevin2004-St/flask_autentication) – Flask Project
 
 
 ## 👥 Collaborating on
